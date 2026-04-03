@@ -1,2 +1,2 @@
 for i in range(10):
-    print("cute_sangu")
+    print("sangu_idot_stupid")
